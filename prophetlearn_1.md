@@ -7,3 +7,5 @@ permalink: /prophet/lesson_1/
 一些日常的记录和尝试
 
 比如run setting相关的内容
+比如针对不同的准则
+
