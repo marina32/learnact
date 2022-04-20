@@ -1,3 +1,7 @@
+layout: page
+title: "Lesson 1 简介"
+permalink: /prophet/lesson_1/
+
 ## 慢跳预言家
 
 一些日常的记录和尝试
