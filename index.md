@@ -1,4 +1,4 @@
-## 慢跳预言家
+## 记录一些日常的笔记
 
 You can use the [editor on GitHub](https://github.com/marina32/learnact/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
