@@ -1,10 +1,14 @@
-## 记录一些日常的笔记
+# 精算打工人的学习笔记
 
 You can use the [editor on GitHub](https://github.com/marina32/learnact/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
- [Learn Prophet](https://marina32.github.io/learnact/prophetlearn_1) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 建模相关
+[Learn Prophet](https://marina32.github.io/learnact/prophetlearn_1) 
+[Learn SQL](https://marina32.github.io/learnact/prophetlearn_1) 
+
+## 考试相关
+
 
 ### Markdown
 
