@@ -1,11 +1,24 @@
-layout: page
-title: "Lesson 1 简介"
-permalink: /prophet/lesson_1/
+# Prophet基础入门
 
-## 慢跳预言家
+## Prophet模型相关
+### 产品分类
+### 假设管理
+### 模型代码
+### 输入输出
+### 日常评估
+### 预测分析
+### 公司整体模型
+### 偿二
+### 产品开发
+### 多状态
 
-一些日常的记录和尝试
+## 周边产品
+### DCS
+### PE
 
-比如run setting相关的内容
-比如针对不同的准则
+## Q&A
+### Prophet常见报错
+### DCS
+
+
 
