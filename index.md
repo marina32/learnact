@@ -1,13 +1,19 @@
 # 精算打工人的学习笔记
 
-You can use the [editor on GitHub](https://github.com/marina32/learnact/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+一个平平无奇的精算打工人。学习中。
 
 ## 建模相关
 [Learn Prophet](https://marina32.github.io/learnact/prophetlearn_1) 
+
 [Learn SQL](https://marina32.github.io/learnact/prophetlearn_1) 
 
+
 ## 考试相关
+## SOA ASA阶段
+[PA](https://marina32.github.io/learnact/prophetlearn_1) 
+
+[IFM](https://marina32.github.io/learnact/prophetlearn_1) 
+
 
 
 ### Markdown
